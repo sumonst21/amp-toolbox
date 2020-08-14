@@ -1,3 +1,4 @@
+**/dist/**/*
 logs
 *.log
 npm-debug.log*
@@ -9,3 +10,4 @@ yarn-error.log*
 node_modules/
 .npm
 .eslintcache
+.vscode

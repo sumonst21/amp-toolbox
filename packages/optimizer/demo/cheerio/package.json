@@ -1,0 +1,17 @@
+{
+  "name": "@ampproject/toolbox-optimizer-cheerio-demo",
+  "version": "0.0.1",
+  "description": "Transform document via Cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AMPHTML team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "@ampproject/toolbox-optimizer": "0.5.1"
+  }
+}
