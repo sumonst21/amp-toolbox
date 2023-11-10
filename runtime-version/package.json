@@ -19,7 +19,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "amp-toolbox-core": "^0.1.0",
-    "axios": "^0.18.0"
+    "axios": "^1.6.0"
   },
   "devDependencies": {
     "eslint": "^5.4.0",
