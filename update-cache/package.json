@@ -27,7 +27,7 @@
   "dependencies": {
     "amp-toolbox-cache-list": "^0.1.0",
     "amp-toolbox-cache-url": "^0.1.0",
-    "jsrsasign": "^8.0.12"
+    "jsrsasign": "^11.0.0"
   },
   "devDependencies": {
     "eslint": "^5.4.0",
