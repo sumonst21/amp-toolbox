@@ -12,6 +12,6 @@
     "amp-toolbox-runtime-version": "<1.0.0",
     "amp-toolbox-optimizer": "<1.0.0",
     "glob": "^7.1.2",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.6"
   }
 }
